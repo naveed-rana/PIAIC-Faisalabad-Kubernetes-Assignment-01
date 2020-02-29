@@ -1,4 +1,5 @@
 # PIAIC-Kubernetes-Assignment-01
+> There are no secrets to success. It is the result of efforts, hard work, and learning from failure.
 ## Assignment Requirement:
 
  1. Dockerize python flask application
