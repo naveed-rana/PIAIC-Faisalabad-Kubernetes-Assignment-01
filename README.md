@@ -2,7 +2,7 @@
 ## Assignment Requirement:
 
  1. Dockerize python flask application
- 2. Deploy in kubernetes Pod
+ 2. Deploy in kubernetes Pod <br/>
  Use google form link for assignment submission 
  https://forms.gle/wEGtSy6g74SNZNv2A
   
